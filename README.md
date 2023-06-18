@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @its-pru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Instagram @its_pru
+- Name: Tommy Prusak 
+- Major: Software Engineering
+- Minors: Data Science and Mathematics
+- College: Shippensburg University
+- Email: tprusak01@gmail.com
+
+Thank you for checking out my page!
 
 <!---
 its-pru/its-pru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
